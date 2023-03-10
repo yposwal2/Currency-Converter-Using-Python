@@ -15,7 +15,7 @@ The code is a simple Python program that converts USD to GBP using a fixed conve
 <h1>Program Results</h1>
 
 <p align="center">
-Output I<br/>
+Output <br/>
 <img src="https://i.imgur.com/ihxWsSK.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
